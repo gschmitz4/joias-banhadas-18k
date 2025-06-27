@@ -46,7 +46,7 @@ Site institucional desenvolvido para uma marca de joias banhadas a ouro 18k e pr
 ## 📸 Prévia
 
 ### 💻 Desktop
-![Preview Desktop]<img src="../joias-banhadas-18k/assets/Readme/desk.png" alt="Preview" width="300"/>
+<img src="../joias-banhadas-18k/assets/Readme/desk.png" alt="Preview" width="300"/>
 
 ### 📱 Mobile
 ![Preview Mobile](../joias-banhadas-18k/assets/Readme/mobile.png)
