@@ -1,56 +1,51 @@
-# 💍 Loja de Joias - Website Responsivo
+# 🚀 Projeto: INNOVAMIND - Meu Portfólio Profissional
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive-%23FF69B4.svg?style=flat"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg"/>
-</p>
+![GitHub repo size](https://img.shields.io/github/repo-size/GeorgeSchmitz/INNOVAMIND?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/GeorgeSchmitz/INNOVAMIND?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/GeorgeSchmitz/INNOVAMIND?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/GeorgeSchmitz/INNOVAMIND?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/GeorgeSchmitz/INNOVAMIND?style=for-the-badge)
 
----
-
-## ✨ Visão Geral
-
-Site institucional desenvolvido para uma marca de joias banhadas a ouro 18k e prata. Apresenta um design moderno, animações suaves e integração com WhatsApp para contato direto.  
-
-🧠 **Objetivo:** combinar elegância visual com funcionalidades simples, acessíveis e eficazes.
-
-🎯 **Público:** clientes da marca e visitantes interessados em conhecer e adquirir joias com praticidade e confiança.
+> 🎨 Um portfólio interativo, responsivo e animado, criado para apresentar minhas habilidades como **Frontend Developer** e meu background sólido em **Suporte Técnico de TI**.
 
 ---
 
-## 🚀 Funcionalidades
+## 📸 Preview do Projeto
 
-- 💎 Catálogo com apresentação de produtos em cards animados
-- 🛒 Botão **"Comprar"** com preenchimento automático no formulário
-- 📲 Envio da mensagem via **WhatsApp Web** com nome do produto e mensagem do cliente
-- 🗨️ Seção de **Depoimentos** com layout elegante
-- ✨ Animações CSS (`fadeSlideUp`, `hover scale`, etc.)
-- 🧩 Código modular e organizado para fácil manutenção
+![Screenshot](img/preview.png)
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 🎯 Funcionalidades
 
-| Tecnologia     | Finalidade                                 |
-|----------------|---------------------------------------------|
-| `HTML5`        | Estrutura semântica                         |
-| `CSS3`         | Estilização com variáveis e responsividade |
-| `JavaScript`   | DOM, eventos e integração WhatsApp         |
-| `SVG Icons`    | Ícones leves e personalizados               |
-| `Media Queries`| Responsividade em todos os dispositivos     |
-
+✅ Site 100% responsivo (mobile, tablet, desktop)  
+✅ Animações com CSS Keyframes  
+✅ Barra de navegação interativa  
+✅ Efeitos de rolagem (scroll reveal)  
+✅ Ícones sociais com Boxicons  
+✅ Seções: Início | Sobre | Projetos | Skills | Contato  
 
 ---
 
-## 📦 Como Usar Localmente
+## 🛠️ Tecnologias utilizadas
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/loja-de-joias.git
+| Tecnologia       | Descrição                                        |
+|------------------|--------------------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Estrutura semântica |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Estilização com Flexbox, Grid e animações |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Interatividade e DOM manipulation |
+| ![Boxicons](https://img.shields.io/badge/Boxicons-Blue?style=for-the-badge&logo=boxicons&logoColor=white) | Ícones personalizados |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Controle de versão |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Deploy e versionamento |
 
-# Acesse a pasta
-cd loja-de-joias
+---
 
-# Abra o arquivo index.html no navegador
+## ✅ Próximas melhorias
+
+- [x] Finalizar responsividade mobile
+- [x] Adicionar animações suaves nas seções
+- [x] Melhorar SEO com metatags
+- [ ] Criar modo dark/light
+- [ ] Adicionar formulário funcional com backend (PHP ou Node.js)
+
+---
