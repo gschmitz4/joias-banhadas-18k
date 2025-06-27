@@ -41,15 +41,6 @@ Site institucional desenvolvido para uma marca de joias banhadas a ouro 18k e pr
 | `SVG Icons`    | Ícones leves e personalizados               |
 | `Media Queries`| Responsividade em todos os dispositivos     |
 
----
-
-## 📸 Prévia
-
-### 💻 Desktop
-<img src="../joias-banhadas-18k/assets/Readme/desk.png" alt="Preview" width="300"/>
-
-### 📱 Mobile
-![Preview Mobile](../joias-banhadas-18k/assets/Readme/mobile.png)
 
 ---
 
